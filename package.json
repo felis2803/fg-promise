@@ -1,0 +1,22 @@
+{
+  "name": "fg-promise",
+  "version": "0.1.1",
+  "description": "Extended promise",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felis2803/ex-promise.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Felis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felis2803/ex-promise/issues"
+  },
+  "homepage": "https://github.com/felis2803/ex-promise#readme"
+}
