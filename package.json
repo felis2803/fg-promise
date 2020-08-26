@@ -1,10 +1,10 @@
 {
   "name": "fg-promise",
   "version": "0.1.1",
-  "description": "Extended promise",
+  "description": "Decorated promise",
   "main": "main.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
