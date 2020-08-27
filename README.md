@@ -8,9 +8,9 @@ npm i fg-promise
 
 # Инициализация и использование
 ```js
-const exPromise = require('ex-promise');
+const fgPromise = require('fg-promise');
 
-let promise = new exPromise;
+let promise = new fgPromise;
 
 (async function(){
     try{
