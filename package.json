@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felis2803/ex-promise.git"
+    "url": "git+https://github.com/felis2803/fg-promise.git"
   },
   "keywords": [
     "promise"
@@ -16,7 +16,7 @@
   "author": "Felis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/felis2803/ex-promise/issues"
+    "url": "https://github.com/felis2803/fg-promise/issues"
   },
-  "homepage": "https://github.com/felis2803/ex-promise#readme"
+  "homepage": "https://github.com/felis2803/fg-promise#readme"
 }
